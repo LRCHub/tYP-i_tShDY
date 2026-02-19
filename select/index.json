@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "たぶん",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-02-19T23:50:04.484815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "たぶん [Tabun {Có Lẽ}]",
+      "artist": "yoasobi",
+      "has_synced": true,
+      "path": "select/06_たぶん_[Tabun_{Có_Lẽ}]_yoasobi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "たぶん (Tabun)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_たぶん_(Tabun)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "Yoasobi",
+      "has_synced": true,
+      "path": "select/09_たぶん_Yoasobi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/10_たぶん_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/11_たぶん_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/12_たぶん_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "Ayase feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/13_たぶん_Ayase_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/14_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/15_たぶん_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/16_たぶん_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たぶん",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_たぶん_YOASOBI.txt"
+    }
+  ]
+}
